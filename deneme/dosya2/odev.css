@@ -1,0 +1,49 @@
+ h1{
+    text-align: center;
+ }
+  ul {
+    list-style: none;
+    margin: 0 auto;
+    }
+    .menu li {
+ display: inline-block;
+ padding:0 px;
+ margin:auto ;
+    }
+    .menu li a {
+    display:inline-block;
+    margin:auto ;
+    padding:5px ;
+    background:green;
+    color:white;
+    text-decoration:none;
+    }
+    .menu {
+    margin: 0 auto;
+    width:280px; /** bu değer girilmezse ortalanacak bir kutu değeri alamaz **/
+    height:50px;
+    }
+    #p1{
+        text-align: center;
+       
+    }
+    h3{
+      text-align: center;
+    }
+    .menu2{
+      list-style-type: disc;
+      margin: auto;
+      text-align: center;
+      list-style-position: inside
+    }
+    .menu2 li {
+      padding:0 px;
+      margin: 0 auto ;
+      text-align: center;
+         }
+   ol li{
+      text-align: center;
+      list-style-position: inside
+   }
+
+   
