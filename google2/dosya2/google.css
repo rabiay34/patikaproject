@@ -1,0 +1,56 @@
+.pat1{
+    text-align: center;
+    list-style-type:none;
+}
+.pat2{
+    text-align: center;
+}
+#box {
+   text-align: center;
+    position: relative;
+    margin: auto;
+}
+ 
+#box .form1 {
+    position: absolute;
+    top: 14px;
+    left: 12px;
+    font-size: 20px;
+    color:cornflowerblue;
+    
+}
+ 
+#search {
+    width: 500px;
+    box-sizing: border-box;
+    border: 2px solid cornflowerblue;
+    border-radius: 10px;
+    font-size:18px;
+    padding: 12px 20px 12px 40px;
+   
+}
+.top{
+    text-align: center;
+}
+#blue{
+    margin-bottom: 370px;
+}
+.top2{
+    display:inline-block ;
+    background-color: rgb(217, 221, 221);
+    width: 750px;
+   
+   
+}
+.top3{
+    text-align: right;
+    display: inline-block;
+    background-color: rgb(219, 225, 224);
+    width: 750px;
+
+}
+
+
+
+
+ 
