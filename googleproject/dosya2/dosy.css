@@ -1,0 +1,40 @@
+.type{
+   text-align: center;
+}
+.blue{
+    background-color: rgb(173, 171, 171);
+    text-align: center;
+}
+.tablo1{
+    width: 400px;
+    height: 90px;
+    background-color: skyblue;
+    padding: 50px;
+    position: relative;
+    float: left;
+}
+.tablo2 {
+    width: 420px;
+    height: 90px;
+    background-color: rgb(135, 235, 173);
+    padding: 50px;
+    position: relative;
+    float: left;
+}
+.tablo3 {
+    width: 400px;
+    height: 90px;
+    background-color: rgb(41, 150, 135);
+    padding: 50px;
+    position: relative;
+    float: left;
+}
+.tablo1 > a{
+display: block;
+}
+.tablo2 > a{
+    display: block;
+    }
+    #div1{
+        text-align: center;
+    }
